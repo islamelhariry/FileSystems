@@ -1,0 +1,40 @@
+Dependencies for Project 'Lab5', Target 'Target': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (..\inc\BSP.c)(0x57E4C358)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ..\inc-I.\RTE\_Target-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="530" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\bsp.o --omf_browse .\objects\bsp.crf --depend .\objects\bsp.d)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53B2CC)
+I (..\inc\BSP.h)(0x57E4C39C)
+I (..\inc\../inc/tm4c123gh6pm.h)(0x5388606A)
+F (.\eDisk.c)(0x5F97B75C)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ..\inc-I.\RTE\_Target-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="530" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\edisk.o --omf_browse .\objects\edisk.crf --depend .\objects\edisk.d)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53B2CC)
+I (eDisk.h)(0x57C48ADE)
+I (FlashProgram.h)(0x57C48ADE)
+F (.\FlashProgram.c)(0x57C48ADE)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ..\inc-I.\RTE\_Target-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="530" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\flashprogram.o --omf_browse .\objects\flashprogram.crf --depend .\objects\flashprogram.d)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53B2CC)
+I (FlashProgram.h)(0x57C48ADE)
+F (.\Lab5.c)(0x5F97C0FF)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ..\inc-I.\RTE\_Target-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="530" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\lab5.o --omf_browse .\objects\lab5.crf --depend .\objects\lab5.d)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53B2CC)
+I (../inc/BSP.h)(0x57E4C39C)
+I (../inc/CortexM.h)(0x57E4C3E8)
+I (eDisk.h)(0x57C48ADE)
+I (../inc/Profile.h)(0x575825F4)
+I (Texas.h)(0x573DCDA6)
+I (eFile.h)(0x57C48ADE)
+F (..\inc\Profile.c)(0x57582786)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ..\inc-I.\RTE\_Target-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="530" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\profile.o --omf_browse .\objects\profile.crf --depend .\objects\profile.d)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53B2CC)
+I (..\inc\../inc/tm4c123gh6pm.h)(0x5388606A)
+F (.\eFile.c)(0x5F97C085)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ..\inc-I.\RTE\_Target-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="530" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\efile.o --omf_browse .\objects\efile.crf --depend .\objects\efile.d)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53B2CC)
+I (eDisk.h)(0x57C48ADE)
+I (eFile.h)(0x57C48ADE)
+F (.\texas.o)(0x57D8807E)()
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x573C8288)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 530" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x5253BA34)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ..\inc-I.\RTE\_Target-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IE:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="530" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53B2CC)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F0106)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FF03C)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F3392)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (E:\Campus\Courses\Embedded\TM4C123GXL\Keil_v5\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6F216)
